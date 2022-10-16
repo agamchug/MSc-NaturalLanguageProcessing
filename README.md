@@ -4,4 +4,4 @@ Training and comparing different ML classifiers (SVM, Logistic Regression, Naive
 
 #### 1. IMDB_review.ipynb: The code file including the steps to clean the dataset.
 #### 2. Analysis.pdf: The explanation of each embedding, comparison between each classifier, and analysis of the dataset itself.
-#### 3. IMDB reviews (raw) labelled as helpful/not helpful 
+#### 3. train.csv and test.csv: IMDB reviews (raw) labelled as helpful/not helpful 
