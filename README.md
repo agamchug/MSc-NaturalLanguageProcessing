@@ -1,6 +1,6 @@
 # MSc-NaturalLanguageProcessing
 
-Training and comparing different ML classifiers (SVM, Logistic Regression, Naive Bayes etc) and NN architectures (CNN, RNN) on different forms of document-level embeddings (Topic-to-document probabilities, BERT, and more) to predict if an IMDB review is useful or not, irrespective of its tone (good or bad).
+Training and comparing different ML classifiers (SVM, Logistic Regression, Naive Bayes etc) and NN architectures (CNN, RNN) on different forms of document-level embeddings (Topic-to-document probabilities, BERT, and more) to predict if an IMDB review is useful or not, irrespective of its tone (good or bad). Imbalanced dataset.
 Metric used: F1 score
 
 #### 1. IMDB_review.ipynb: The code file including the steps to clean the dataset.
